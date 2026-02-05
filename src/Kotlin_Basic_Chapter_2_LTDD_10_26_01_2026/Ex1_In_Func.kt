@@ -1,11 +1,5 @@
 package Kotlin_Basic_Chapter_2_LTDD_10_26_01_2026
 
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.CaculateOddNumber
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.Duyet_So_Trong_ForLoop
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.Hom_Nay_La_Thu_May
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.So_Sanh_2_So_Nguyen
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.Solve_the_quadratic_equation
-import Kotlin_Basic_Chapter_1_LTDD_10_19_01_2026.Tinh_Tong_2_So_Nguyen
 import kotlin.math.*
 fun Tinh_Tong_2_So_Nguyen() {
     var x: Int? = null
@@ -86,7 +80,6 @@ fun Solve_the_quadratic_equation() {
 }
 
 fun main() {
-
     println("Bài 1 : Kotlin Basic")
     Tinh_Tong_2_So_Nguyen()
     So_Sanh_2_So_Nguyen()
